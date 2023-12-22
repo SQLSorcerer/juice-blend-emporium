@@ -1,6 +1,4 @@
-Certainly! Here's the updated section for the README:
 
----
 
 # Juice Blend Emporium
 
